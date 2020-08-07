@@ -2,8 +2,7 @@
   "runtimeOptions": {
     "additionalProbingPaths": [
       "/Users/macbookpro/.dotnet/store/|arch|/|tfm|",
-      "/Users/macbookpro/.nuget/packages",
-      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+      "/Users/macbookpro/.nuget/packages"
     ]
   }
 }

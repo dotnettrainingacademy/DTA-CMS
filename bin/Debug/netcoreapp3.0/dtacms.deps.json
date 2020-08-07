@@ -708,27 +708,11 @@
           "lib/netstandard2.0/SQLitePCLRaw.provider.dynamic_cdecl.dll": {}
         }
       },
-      "System.Collections.Immutable/1.6.0-preview9.19421.4": {
-        "compile": {
-          "lib/netstandard2.0/System.Collections.Immutable.dll": {}
-        }
-      },
-      "System.ComponentModel.Annotations/4.6.0-preview9.19421.4": {
-        "compile": {
-          "ref/netstandard2.1/System.ComponentModel.Annotations.dll": {}
-        }
-      },
-      "System.Diagnostics.DiagnosticSource/4.6.0-preview9.19421.4": {
-        "compile": {
-          "lib/netstandard1.3/System.Diagnostics.DiagnosticSource.dll": {}
-        }
-      },
+      "System.Collections.Immutable/1.6.0-preview9.19421.4": {},
+      "System.ComponentModel.Annotations/4.6.0-preview9.19421.4": {},
+      "System.Diagnostics.DiagnosticSource/4.6.0-preview9.19421.4": {},
       "System.Memory/4.5.3": {},
-      "System.Text.Json/4.6.0-preview9.19421.4": {
-        "compile": {
-          "lib/netcoreapp3.0/System.Text.Json.dll": {}
-        }
-      },
+      "System.Text.Json/4.6.0-preview9.19421.4": {},
       "System.Threading.Tasks.Extensions/4.5.2": {},
       "Microsoft.AspNetCore.Antiforgery/3.0.0.0": {
         "compile": {

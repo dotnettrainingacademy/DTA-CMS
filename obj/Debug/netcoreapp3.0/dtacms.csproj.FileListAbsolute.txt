@@ -3,7 +3,6 @@
 /Users/macbookpro/Documents/DTA-CMS/dtacms/bin/Debug/netcoreapp3.0/Properties/launchSettings.json
 /Users/macbookpro/Documents/DTA-CMS/dtacms/bin/Debug/netcoreapp3.0/dtacms.StaticWebAssets.xml
 /Users/macbookpro/Documents/DTA-CMS/dtacms/bin/Debug/netcoreapp3.0/app.db
-/Users/macbookpro/Documents/DTA-CMS/dtacms/bin/Debug/netcoreapp3.0/dtacms
 /Users/macbookpro/Documents/DTA-CMS/dtacms/bin/Debug/netcoreapp3.0/dtacms.deps.json
 /Users/macbookpro/Documents/DTA-CMS/dtacms/bin/Debug/netcoreapp3.0/dtacms.runtimeconfig.json
 /Users/macbookpro/Documents/DTA-CMS/dtacms/bin/Debug/netcoreapp3.0/dtacms.runtimeconfig.dev.json
@@ -42,8 +41,7 @@
 /Users/macbookpro/Documents/DTA-CMS/dtacms/bin/Debug/netcoreapp3.0/runtimes/win-x64/native/e_sqlite3.dll
 /Users/macbookpro/Documents/DTA-CMS/dtacms/bin/Debug/netcoreapp3.0/runtimes/win-x86/native/e_sqlite3.dll
 /Users/macbookpro/Documents/DTA-CMS/dtacms/obj/Debug/netcoreapp3.0/dtacms.csprojAssemblyReference.cache
-/Users/macbookpro/Documents/DTA-CMS/dtacms/obj/Debug/netcoreapp3.0/staticwebassets/dtacms.StaticWebAssets.Manifest.cache
-/Users/macbookpro/Documents/DTA-CMS/dtacms/obj/Debug/netcoreapp3.0/staticwebassets/dtacms.StaticWebAssets.xml
+/Users/macbookpro/Documents/DTA-CMS/dtacms/obj/Debug/netcoreapp3.0/dtacms.csproj.CoreCompileInputs.cache
 /Users/macbookpro/Documents/DTA-CMS/dtacms/obj/Debug/netcoreapp3.0/dtacms.MvcApplicationPartsAssemblyInfo.cs
 /Users/macbookpro/Documents/DTA-CMS/dtacms/obj/Debug/netcoreapp3.0/dtacms.MvcApplicationPartsAssemblyInfo.cache
 /Users/macbookpro/Documents/DTA-CMS/dtacms/obj/Debug/netcoreapp3.0/dtacms.RazorAssemblyInfo.cache
@@ -54,7 +52,9 @@
 /Users/macbookpro/Documents/DTA-CMS/dtacms/obj/Debug/netcoreapp3.0/dtacms.TagHelpers.output.cache
 /Users/macbookpro/Documents/DTA-CMS/dtacms/obj/Debug/netcoreapp3.0/dtacms.RazorCoreGenerate.cache
 /Users/macbookpro/Documents/DTA-CMS/dtacms/obj/Debug/netcoreapp3.0/Razor/Areas/Identity/Pages/_ViewStart.cshtml.g.cs
+/Users/macbookpro/Documents/DTA-CMS/dtacms/obj/Debug/netcoreapp3.0/Razor/Views/Dash/Index.cshtml.g.cs
 /Users/macbookpro/Documents/DTA-CMS/dtacms/obj/Debug/netcoreapp3.0/Razor/Views/Home/About.cshtml.g.cs
+/Users/macbookpro/Documents/DTA-CMS/dtacms/obj/Debug/netcoreapp3.0/Razor/Views/Home/Admin.cshtml.g.cs
 /Users/macbookpro/Documents/DTA-CMS/dtacms/obj/Debug/netcoreapp3.0/Razor/Views/Home/Blogs.cshtml.g.cs
 /Users/macbookpro/Documents/DTA-CMS/dtacms/obj/Debug/netcoreapp3.0/Razor/Views/Home/Contact.cshtml.g.cs
 /Users/macbookpro/Documents/DTA-CMS/dtacms/obj/Debug/netcoreapp3.0/Razor/Views/Home/Index.cshtml.g.cs
@@ -70,7 +70,8 @@
 /Users/macbookpro/Documents/DTA-CMS/dtacms/obj/Debug/netcoreapp3.0/dtacms.RazorTargetAssemblyInfo.cs
 /Users/macbookpro/Documents/DTA-CMS/dtacms/obj/Debug/netcoreapp3.0/dtacms.Views.pdb
 /Users/macbookpro/Documents/DTA-CMS/dtacms/obj/Debug/netcoreapp3.0/dtacms.csproj.CopyComplete
+/Users/macbookpro/Documents/DTA-CMS/dtacms/obj/Debug/netcoreapp3.0/staticwebassets/dtacms.StaticWebAssets.Manifest.cache
+/Users/macbookpro/Documents/DTA-CMS/dtacms/obj/Debug/netcoreapp3.0/staticwebassets/dtacms.StaticWebAssets.xml
 /Users/macbookpro/Documents/DTA-CMS/dtacms/obj/Debug/netcoreapp3.0/dtacms.dll
 /Users/macbookpro/Documents/DTA-CMS/dtacms/obj/Debug/netcoreapp3.0/dtacms.pdb
-/Users/macbookpro/Documents/DTA-CMS/dtacms/obj/Debug/netcoreapp3.0/Razor/Views/Home/Admin.cshtml.g.cs
-/Users/macbookpro/Documents/DTA-CMS/dtacms/obj/Debug/netcoreapp3.0/Razor/Views/Dash/Index.cshtml.g.cs
+/Users/macbookpro/Documents/DTA-CMS/dtacms/obj/Debug/netcoreapp3.0/dtacms.genruntimeconfig.cache
